@@ -1,1 +1,0 @@
-# stockexchange-analyzer-migration-tool
